@@ -3,6 +3,10 @@ CHOICES
 First Choice: A
 Second Choice: A
 
+Accused Danny
+Third Choice: C
+Fourth Choice: D
+
 Accused Billy
 Third Choice: A
 Fourth Choice: A
