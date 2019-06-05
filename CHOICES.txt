@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: 1
-Second Choice: 1
-Third Choice: ____
+First Choice: A
+Second Choice: A
+Third Choice: C
 Fourth Choice: ____
 Fifth Choice: ____
