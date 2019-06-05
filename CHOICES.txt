@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: A
 Second Choice: A
-Third Choice: C
-Fourth Choice: A
-Fifth Choice: 
+Third Choice: B
+Fourth Choice: D
+Fifth Choice: A
