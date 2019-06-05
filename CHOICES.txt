@@ -2,6 +2,12 @@ CHOICES
 
 First Choice: A
 Second Choice: A
+
+Accused Billy
 Third Choice: A
 Fourth Choice: A
+
+Accused Helga
+Third Choice: B
+Fourth Choice: D
 Fifth Choice: A
